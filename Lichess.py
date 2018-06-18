@@ -99,8 +99,3 @@ def handle_tables(table_data: list):
     table.inner_row_border = True
     table = table = "<pre>{}</pre>".format(table.table)
     return table
-
-
-if __name__ == "__main__":
-    streamers()
-    is_online("mzfr")
