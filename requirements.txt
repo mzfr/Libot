@@ -1,0 +1,4 @@
+terminaltables
+telegram
+python-telegram-bot
+requests
